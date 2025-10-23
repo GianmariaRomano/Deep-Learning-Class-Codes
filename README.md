@@ -20,6 +20,15 @@ This repository contains notebook codes for the **"Deep Learning"** course, taug
 ## 🎬 Additional Information
 
 - 📌 For official communications and course materials, please refer to the Google Site and Google Group pages of the course.
+- 🛰 For additional references about the notebooks, consult the [official website of the *Dive into Deep Learning* textbook](https://d2l.ai/index.html).
 - 📩 For any questions or clarifications, feel free to contact me directly.
+
+---
+
+## 📖 Timeline of the Coding Sessions
+
+**9 October:** Introduction to **mutilayer perceptrons** and **convolutional neural networks** ([Chapter 7.2](https://d2l.ai/chapter_convolutional-neural-networks/conv-layer.html))
+
+**23 October:** Implementing **AlexNet** ([Chapter 8.1](https://d2l.ai/chapter_convolutional-modern/alexnet.html))
 
 ---
