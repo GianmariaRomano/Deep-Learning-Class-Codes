@@ -31,6 +31,6 @@ This repository contains notebook codes for the **"Deep Learning"** course, taug
 
 **23 October:** Implementing **AlexNet** ([Chapter 8.1](https://d2l.ai/chapter_convolutional-modern/alexnet.html))
 
-**25 November:** Recap of **sequence models** ([Chapters 9.1](https://d2l.ai/chapter_recurrent-neural-networks/sequence.html) and [9.2](https://d2l.ai/chapter_recurrent-neural-networks/text-sequence.html)) and implementing **recurrent neural networks** ([Chapter 9.5](https://d2l.ai/chapter_recurrent-neural-networks/rnn-scratch.html)) and **long short-term memory models** ([Chapters 10.1](https://d2l.ai/chapter_recurrent-modern/lstm.html) and [10.5](https://d2l.ai/chapter_recurrent-modern/machine-translation-and-dataset.html))
+**25 November:** Recap of **sequence models** ([Chapters 9.1](https://d2l.ai/chapter_recurrent-neural-networks/sequence.html) and [9.2](https://d2l.ai/chapter_recurrent-neural-networks/text-sequence.html)) and implementing models such as **recurrent neural networks** ([Chapter 9.5](https://d2l.ai/chapter_recurrent-neural-networks/rnn-scratch.html)), **long short-term memory models** ([Chapters 10.1](https://d2l.ai/chapter_recurrent-modern/lstm.html) and [10.5](https://d2l.ai/chapter_recurrent-modern/machine-translation-and-dataset.html)) and **encoder-decoder models** ([Chapter 10.6](https://d2l.ai/chapter_recurrent-modern/encoder-decoder.html))
 
 ---
